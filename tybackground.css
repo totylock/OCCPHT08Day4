@@ -1,0 +1,28 @@
+h1{
+	float: left;
+	font-size: 30px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	display: grid;
+	text-align: center;
+	color:azure;
+	margin-left: 40px;
+}
+
+.div{
+	width: 800px;
+	height: 500px;
+	margin: auto;
+	
+}
+
+.backg{
+	background-image: url("https://images.nationalgeographic.org/image/upload/v1638883972/EducationHub/photos/cowboy-on-the-plain.jpg");
+    background-position: center; 
+    background-size: cover;
+    height: 500px;
+	width: 800px;
+    background-repeat: no-repeat;
+	display: flex;
+	align-items: center;
+	margin: auto;
+}
